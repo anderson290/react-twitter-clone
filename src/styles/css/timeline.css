@@ -1,0 +1,33 @@
+input, textarea {
+  border: 1px solid lightgray;
+  padding: 1em;
+  border-radius: 1em;
+  outline: none;
+  width: 80%;
+  margin: 1em;
+}
+
+.logo-img {
+  width: 4em;
+}
+
+.button {
+  padding: 1em 2em;
+  margin: 1em 0em;
+  border-radius: 1em;
+  background: #1DA1F2;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.login-wrapper {
+  margin: 15% 30%;
+}
+
+.center-object {
+  margin: 0 auto;
+  text-align: center;
+}
+
+/*# sourceMappingURL=timeline.css.map */
